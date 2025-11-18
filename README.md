@@ -1,9 +1,9 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="YOUR_GIF_LINK_HERE" width="100%" />
+  <img src="https://github.com/annellery/annellery/blob/main/cozy.gif" width="100%" />
 </p>
 
-<h1 align="center">🌸 hi, i'm lumi (anne) 🌸</h1>
+<h1 align="center">🌸 hi, i'm anne >.< </h1>
 
 <p align="center">
   <em>a cozy corner where i learn, build & grow softly 🤍</em>
@@ -12,25 +12,27 @@
 ---
 
 ## 🌿 about me  
-- ✧ computer science student  
+- ✧ undergrad computer science student  
 - ✧ exploring cybersecurity (beginner but curious)  
-- ✧ loves aesthetic ui + cute tech projects  
+- ✧ loves aesthetic ui/ux and graphic designing + cute tech projects
+- ✧ learning about game development
+- ✧ lobe music and cute aesthetic stuff
 - ✧ making my tiny workspace on the internet cozy  
 
 ---
 
 ## ✨ current focus  
 - building mini security tools  
-- making aesthetic apps (java/android)  
+- making aesthetic apps (java/android/html/css/c/c++/kotlin/python)  
 - improving my coding basics slowly but consistently  
 
 ---
 
 ## ☁️ what i love working on  
 - 🌸 beginner cybersecurity scripts  
-- 🪄 aesthetic ui projects  
+- 🪄 aesthetic ui projects 
 - 🎵 designing cute music player concepts  
-- 💻 java + android  
+- 💻 java + android + kotlin
 - 🎨 pixel art & cozy visuals  
 
 ---
