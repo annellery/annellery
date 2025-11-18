@@ -12,7 +12,8 @@
 ---
 
 ## 🌿 about me  
-- ✧ undergrad computer science student  
+- ✧ undergrad computer science student
+- ✧ j.m girlieee >.<
 - ✧ exploring cybersecurity (beginner but curious)  
 - ✧ loves aesthetic ui/ux and graphic designing + cute tech projects
 - ✧ learning about game development
@@ -46,4 +47,4 @@
 ---
 
 ## 🤍 connect with me  
-*(add your links here when you’re ready)*  
+*(will be updated later U w U)*  
