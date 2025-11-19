@@ -46,5 +46,11 @@
 
 ---
 
+## **My Pixel-Art Gallery**
+[visit my gallery](https://tofu-habit-83827407.figma.site/)
+
+
+---
+
 ## 🤍 connect with me  
 *(will be updated later U w U)*  
